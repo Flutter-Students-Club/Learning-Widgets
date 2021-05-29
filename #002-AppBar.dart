@@ -1,10 +1,10 @@
 /* 
 -TR-
 Flutter Students Club 💙
-Widget öğreniyorum #001 - Appbar 💙
+Widget öğreniyorum #002 - Appbar 💙
 -EN-
 Flutter Students Club 💙
-Learning widget #001 - Appbar💙
+Learning widget #002 - Appbar 💙
 */
 
 
