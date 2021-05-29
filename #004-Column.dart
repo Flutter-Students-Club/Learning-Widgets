@@ -1,10 +1,10 @@
 /* 
 -TR-
 Flutter Students Club 💙
-Widget öğreniyorum #001 - Column 💙
+Widget öğreniyorum #004 - Column 💙
 -EN-
 Flutter Students Club 💙
-Learning widget #001 - Column💙
+Learning widget #004 - Column 💙
 */
 
 
