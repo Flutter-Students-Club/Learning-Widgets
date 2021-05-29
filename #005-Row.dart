@@ -1,10 +1,10 @@
 /* 
 -TR-
 Flutter Students Club 💙
-Widget öğreniyorum #001 - Row 💙
+Widget öğreniyorum #005 - Row 💙
 -EN-
 Flutter Students Club 💙
-Learning widget #001 - Row 💙
+Learning widget #005 - Row 💙
 */
 
 
