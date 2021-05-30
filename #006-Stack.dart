@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(width: 200, height: 200, color: Colors.blue,),
             Container(width: 150, height: 150, color: Colors.lightBlueAccent,),
             Container(width: 100, height: 100, color: Colors.white,),
+            Text("Flutter\nStudents\nClub"),
           ],
         ),
       ),
