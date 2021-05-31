@@ -1,10 +1,10 @@
 /* 
 -TR-
 Flutter Students Club 💙
-Widget öğreniyorum #001 - Scaffold 💙
+Widget öğreniyorum #010 - SizedBox 💙
 -EN-
 Flutter Students Club 💙
-Learning widget #001 - Scaffold 💙
+Learning widget #010 - SizedBox 💙
 */
 
 // ÖRNEK 1
