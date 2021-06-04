@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
 Instagram : instagram.com/flutterstudentsclub
 Twitter : twitter.com/Flutterstudents
 LinkedIn : linkedin.com/company/flutterstudentsclub/
-Medium : medium.com/beta-class-online
+Medium : medium.com/flutter-students-club
 Website : flutterstudentsclub.com
 ----------------------------------------------------
 Flutter and the related logo are trademarks of Google LCC. Flutter  Students Club  isn’t affiliated with or otherwise sponsored by Google LLC.
