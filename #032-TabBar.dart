@@ -1,10 +1,10 @@
 /* 
 -TR-
 Flutter Students Club 💙
-Widget öğreniyorum #029 - AlertDialog 💙
+Widget öğreniyorum #032 - TabBar 💙
 -EN-
 Flutter Students Club 💙
-Learning widget #029 - AlertDialog 💙
+Learning widget #032 - TabBar 💙
 */
 
 // SAYFA 1
